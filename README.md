@@ -19,5 +19,5 @@ git clone <url>
 2 - Acesse a pasta do projeto
 
 ```
-cd 05-html-e-css-avancado
+cd 05-app-gerador-de-conselhos
 ```
