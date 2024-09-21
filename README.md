@@ -1,13 +1,30 @@
 # App Gerador De Conselhos
+
+## Descrição
+
 Um app gerador de conselhos aleatórios! 🚀
 
-[<img src="./src/design/desktop.png" alt="design do app no desktop">](https://google.com)
+## Conceitos trabalhados e fixados no projeto:
 
-[<img src="./src/design/mobile.png" alt="design do app no mobile">](https://google.com)
+* Estrutura de pastas padrão no projeto; ✅
+* HTML Semântico; ✅
+* Display Flex; ✅
+* Responsividade; ✅
+* Conceitos de código assíncrono no JS (funções assíncronas e await); ✅
+* Uso de funções; DOM; eventos e método fetch(url) no JS; ✅
+* Uso de uma API gratuita de conselhos ✅
 
-## Tecnologias Utilizadas
-- HTML
-- CSS
+## Design Desktop
+
+<div align="center">
+    <img src="./src/design/desktop.png" alt="design do app no desktop">](https://google.com)
+</div>
+
+## Design Mobile
+
+<div align="center">
+    <img src="./src/design/mobile.png" alt="design do app no desktop">](https://google.com)
+</div>
 
 ## Como Utilizar
 
@@ -19,5 +36,5 @@ git clone <url>
 2 - Acesse a pasta do projeto
 
 ```
-cd 05-app-gerador-de-conselhos
+cd app-gerador-de-conselhos
 ```
