@@ -23,7 +23,7 @@ body{
     width: 345px;
 }
 
-.conselho .id-conselho{
+.conselho .idConselho{
     color: var(--advice-dice-color);
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -31,14 +31,14 @@ body{
     margin-top: 30px;
 }
 
-.conselho .descricao-conselho{
+.conselho .descricaoConselho{
     font-size: 23px;
     padding: 23px;
     text-align: center;
     color: var(--text-color)
 }
 
-.conselho .atualizar-conselho{
+.conselho .atualizarConselho{
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -47,7 +47,7 @@ body{
     transform: translateY(50%);
 }
 
-.conselho .atualizar-conselho:hover{
+.conselho .atualizarConselho:hover{
     color: #53FFAB;
     cursor: pointer;
     box-shadow: 0 5px 15px var(--advice-dice-color);

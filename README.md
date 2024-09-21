@@ -1,9 +1,9 @@
 # App Gerador De Conselhos
 Um app gerador de conselhos aleatórios! 🚀
 
-[<img src="./design/desktop.png" alt="design do app no desktop">](https://google.com)
+[<img src="./src/design/desktop.png" alt="design do app no desktop">](https://google.com)
 
-[<img src="./design/mobile.png" alt="design do app no mobile">](https://google.com)
+[<img src="./src/design/mobile.png" alt="design do app no mobile">](https://google.com)
 
 ## Tecnologias Utilizadas
 - HTML
