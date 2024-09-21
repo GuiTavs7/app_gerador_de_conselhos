@@ -17,13 +17,13 @@ Um app gerador de conselhos aleatórios! 🚀
 ## Design Desktop
 
 <div align="center">
-    <img src="./src/design/desktop.png" alt="design do app no desktop">](https://google.com)
+    <img src="./src/design/desktop.png" alt="design do app no desktop">
 </div>
 
 ## Design Mobile
 
 <div align="center">
-    <img src="./src/design/mobile.png" alt="design do app no desktop">](https://google.com)
+    <img src="./src/design/mobile.png" alt="design do app no desktop">
 </div>
 
 ## Como Utilizar
